@@ -3,7 +3,7 @@ Challenge Problem 1
 
 Hi! I'm Nae.
 
-This code was built with primary HTML and CSS code from the first week or so of class and outside research.
+This code was built with primary HTML and CSS code from the first week or so of class and outside research using Google and Chat GPT for items I was confused upon.
 
 ## Semantics
 To show the Header, Nav, Section, Aside, and Footer, update the semantic components.
